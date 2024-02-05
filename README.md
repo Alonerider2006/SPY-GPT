@@ -59,11 +59,11 @@ pkg install git wget python -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/samay825/W0rm-Gpt
+git clone https://github.com/Alonerider2006/SPY-GPT
 ```
 Go to the W0rm-Gpt directory
 ```bash
-cd W0rm-Gpt
+cd SPY-Gpt
 ```
 Now Install the Requirements 
 ```bash
@@ -88,7 +88,7 @@ apt-get install git wget python3 -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/samay825/W0rm-Gpt
+git clone https://github.com/Alonerider2006/SPY-Gpt
 ```
 Go to the SPY-GPT directory
 ```bash
@@ -119,7 +119,7 @@ You'll get that in the telegram channel !
 * `This SPY-GPT is mainly to get knowledge not for other purposes!`
 
 ## Licence
-Apache 2.0 © Samay825
+Apache 2.0 © spyofficial99
 
 
 ## Contact Us
