@@ -1,6 +1,6 @@
 <h1 align="center">SPY-GPT<br>
 </h1>
-<img src="hacker.png" alt="Paris" class="center">
+<img src="pngwing.com.png" alt="Paris" class="center">
 * `📱 💀`<br />
 * `A SPY-GPT for termux & Linux `
 
