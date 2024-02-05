@@ -1,8 +1,8 @@
-<h1 align="center">W0rm-GPT<br>
+<h1 align="center">SPY-GPT<br>
 </h1>
 <img src="logoworm.png" alt="Paris" class="center">
 * `📱 💀`<br />
-* `A W0rm-GPT for termux & Linux `
+* `A SPY-GPT for termux & Linux `
 
 ## Disclaimer
 *This tool is for educational purposes only !*
@@ -90,9 +90,9 @@ Clone the repository
 ```bash
 git clone https://github.com/samay825/W0rm-Gpt
 ```
-Go to the W0rm-Gpt directory
+Go to the SPY-GPT directory
 ```bash
-cd W0rm-Gpt
+cd SPY-GPT
 ```
 Now Install the Requirements 
 ```bash
@@ -108,7 +108,7 @@ sudo python3 main.py
 You'll get that in the telegram channel !
 
 ## Version
-* `v2.0 W0rm-Gpt`
+* `v2.0 SPY-GPT`
 
 ## Features
 * `Can do anything you want !!`
@@ -116,7 +116,7 @@ You'll get that in the telegram channel !
 * `All Ai chatbot and all questions will be answered in goodflow`
 
 ## Note
-* `This ChatW0rm-Gpt is mainly to get knowledge not for other purposes!`
+* `This SPY-GPT is mainly to get knowledge not for other purposes!`
 
 ## Licence
 Apache 2.0 © Samay825
@@ -124,12 +124,12 @@ Apache 2.0 © Samay825
 
 ## Contact Us
 * `If you have any feedback or queries`
-* `Instagram: @sincryptzork`
-* `Telegram: @sincryptzork`
+* `Instagram: @spyofficial99`
+* `Telegram: @spyofficial99`
 
 ## Telegram Channel
 
 * `All updates of Team Sincryption will be posted here !`
 
-<a href="https://t.me/TeamSincryption">
+<a href="https://t.me/spyofficial99">
          <img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png">
