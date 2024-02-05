@@ -61,9 +61,9 @@ Clone the repository
 ```bash
 git clone https://github.com/Alonerider2006/SPY-GPT
 ```
-Go to the W0rm-Gpt directory
+Go to the SPY-Gpt directory
 ```bash
-cd SPY-Gpt
+cd SPY-GPT
 ```
 Now Install the Requirements 
 ```bash
